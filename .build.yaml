@@ -1,0 +1,12 @@
+
+scheme: test
+target: test
+app_identifier: com.didi.rubyios
+bundle_version: 1.0.0
+xcworkspace: test.xcworkspace
+configuration: Release
+export_method: development
+access_token_url: TnbYR6RebEMToX3uherZvRAzdAQ18ujCbGGI8cwoLlljko0-F6xFk5Eb0l707IsHMbkM1Urz_ge0vwbl8XrXTD3bGb9-zIKQsd2kuhtIqGQArqFR_km7_B1Yyzw_s1jhxPsv47kR82L5L_NmrTj9age5lXX37ft10SFtyYcTVh21tpUulpzYwHeCgJyBfB6WslkAjm6YVWVZXqSGkngjPQ
+secret: n0dbsA_K8c-k9v2zOVYuS7yfE9aIWXYo0nZQEKRcGQU
+agentid: 1000002
+send_message_url: https://qyapi.weixin.qq.com/cgi-bin/message/send?access_token=TnbYR6RebEMToX3uherZvRAzdAQ18ujCbGGI8cwoLlljko0-F6xFk5Eb0l707IsHMbkM1Urz_ge0vwbl8XrXTD3bGb9-zIKQsd2kuhtIqGQArqFR_km7_B1Yyzw_s1jhxPsv47kR82L5L_NmrTj9age5lXX37ft10SFtyYcTVh21tpUulpzYwHeCgJyBfB6WslkAjm6YVWVZXqSGkngjPQ
